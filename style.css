@@ -1,0 +1,42 @@
+body {
+    background-image: url("bg4-1.png");
+}
+
+a {
+    display: block;
+    width: 500px;
+    height: 100px;
+    background-color: #64b7e6;
+    color: black;
+    font-size: x-large;
+    border: 1px black solid;
+    padding: 50px;
+    
+}
+
+#scen {
+    text-align: center;
+}
+
+/* #navbar {
+    display: flex;
+    flex-direction: row;
+}
+
+#wrap {
+    display: flex;
+}
+
+#navrow {
+    display: flex;
+    width: 100%;
+    background-color: aliceblue;
+}
+
+#navcol {
+    text-align: center;
+    display: block;
+    padding: 25px;
+    border: 1px black solid;
+    font-size: 30px;
+} */
